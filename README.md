@@ -1,9 +1,9 @@
 <h1 align="center">I'm Owen</h1>
 <h3 align="center">Newly graduated Software Engineer looking to further develop my skills of project development, and deployment.</h3>
 
-- 🔭 I’m currently working on **ScrUploader**
+- 🔭 I’m currently working on **ScrUploader** and **Plate View**
 
-- 🌱 I’m currently learning **Rust, Cloud Computing, Machine Learning, and NodeJS**
+- 🌱 I’m currently learning **Rust, Cloud Computing, Machine Learning, and Python**
 
 <p align="left">
 </p>
